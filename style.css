@@ -1,0 +1,44 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: fantasy;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 500px;
+}
+
+.image {
+  border: solid 1px #000;
+  align-self: center;
+}
+
+.page-content {
+  border: solid 1px #000;
+  width: 400px;
+  align-self: center;
+}
+
+.footer {
+  width: 100%;
+  padding: 2em 2em;
+  background-color: #E7AD99;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.git {
+  padding: 0px 20px;
+}
