@@ -11,6 +11,13 @@
   align-items: center;
 }
 
+.col-sm {
+  text-align: center;
+  padding: 100px 0px;
+  margin: 1px 1px;
+  border: solid 1px #000;
+}
+
 .page {
   width: 100%;
   display: flex;
