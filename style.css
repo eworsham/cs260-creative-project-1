@@ -5,6 +5,20 @@
   font-family: fantasy;
 }
 
+.bg-light {
+  background-color: #E7AD99 !important;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #CE796B;
+}
+
+.img-home {
+  width: 400px;
+  height: 400px;
+}
+
 .page-container {
   display: flex;
   flex-direction: column;
